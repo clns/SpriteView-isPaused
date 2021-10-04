@@ -1,5 +1,7 @@
 # SpriteView-isPaused
 
+**-> UPDATE: [FIXED in the `fixed` branch](https://github.com/clns/SpriteView-isPaused/tree/fixed)**
+
 Sample SwiftUI / SpriteKit Xcode 13 project showing how the `SKScene` is recreated every time the state property given to the `SpriteView(scene: isPaused:)` initializer changes.
 
 Related questions:
