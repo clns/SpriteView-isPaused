@@ -11,6 +11,8 @@
 		FA1502F5270B7E6F00E4FA65 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1502F4270B7E6F00E4FA65 /* ContentView.swift */; };
 		FA1502F7270B7E7300E4FA65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA1502F6270B7E7300E4FA65 /* Assets.xcassets */; };
 		FA1502FA270B7E7300E4FA65 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA1502F9270B7E7300E4FA65 /* Preview Assets.xcassets */; };
+		FA150301270B87F800E4FA65 /* SpriteView-isPaused.gif in Resources */ = {isa = PBXBuildFile; fileRef = FA150300270B87F800E4FA65 /* SpriteView-isPaused.gif */; };
+		FA150303270B882100E4FA65 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA150302270B882100E4FA65 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		FA1502F4270B7E6F00E4FA65 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FA1502F6270B7E7300E4FA65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA1502F9270B7E7300E4FA65 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FA150300270B87F800E4FA65 /* SpriteView-isPaused.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "SpriteView-isPaused.gif"; sourceTree = "<group>"; };
+		FA150302270B882100E4FA65 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +39,8 @@
 		FA1502E6270B7E6F00E4FA65 = {
 			isa = PBXGroup;
 			children = (
+				FA150302270B882100E4FA65 /* README.md */,
+				FA150300270B87F800E4FA65 /* SpriteView-isPaused.gif */,
 				FA1502F1270B7E6F00E4FA65 /* SpriteView-isPaused */,
 				FA1502F0270B7E6F00E4FA65 /* Products */,
 			);
@@ -126,6 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA1502FA270B7E7300E4FA65 /* Preview Assets.xcassets in Resources */,
+				FA150301270B87F800E4FA65 /* SpriteView-isPaused.gif in Resources */,
+				FA150303270B882100E4FA65 /* README.md in Resources */,
 				FA1502F7270B7E7300E4FA65 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
