@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  SpriteView-isPaused
-//
-//  Created by Calin on 10/4/21.
-//
-
 import SwiftUI
 import SpriteKit
 
